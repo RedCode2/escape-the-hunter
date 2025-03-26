@@ -201,9 +201,7 @@ int main(void) {
                         // Draw a rectangle to represent the obstacle
                         DrawRectangle(x, y, 100, 100, DARKGRAY);
                     }
-                    DrawLine(j * 100, 0, j * 100, SCREEN_HEIGHT, LIGHTGRAY);    // For development purposes only
                 }
-                DrawLine(0, i * 100, SCREEN_WIDTH, i * 100, LIGHTGRAY); // For development purposes only
             }
         }
 
