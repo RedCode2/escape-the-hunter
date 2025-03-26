@@ -1,26 +1,14 @@
-# Raylib C++ Starter Template
+# Escape The Hunter
+- A fun to play game where you have to escape the hunter.
+- Avoid obstacles/blocks.
+- If you get caught, you lose
 
-Raylib C++ Starter Template for Visual Studio Code on Windows.
+## How to run the game?:
+Double-click on `main.exe` file and the game will run.
 
-This demo project contains a bouncing ball raylib example program.
+## How to play the game?:
+- Use W, A, S, D or arrow keys to move.
+- Avoid the hunter (the pink block).
+- Avoid walls (gray blocks).
 
-It works with raylib version 4.5.
-Tested on both Windows 10 and Windows 11.
-
-# Video Tutorial
-
-<p align="center">
-  <img src="preview.jpg" alt="" width="800">
-</p>
-
-<p align="center">
-🎥 <a href="https://www.youtube.com/watch?v=PaAcVk5jUd8">Video Tutorial on YouTube</a>
-</p>
-
-<br>
-<br>
-<p align="center">
-| 📺 <a href="https://www.youtube.com/channel/UC3ivOTE5EgpmF2DHLBmWIWg">My YouTube Channel</a>
-| 🌍 <a href="https://www.programmingwithnick.com">My Website</a> | <br>
-</p>
-
+## Made with Raylib and C++
